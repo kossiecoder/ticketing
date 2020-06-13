@@ -2,6 +2,8 @@
   <dictionary name="mike">
     <words>
       <w>currentuser</w>
+      <w>signin</w>
+      <w>signup</w>
     </words>
   </dictionary>
 </component>
